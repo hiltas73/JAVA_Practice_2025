@@ -2,7 +2,10 @@
 
 ## Introduction
 
-Welcome to my Java Skills Showcase! As a QA Automation Engineer, I am passionate about ensuring software quality through automated testing. This repository contains a collection of Java practice questions and solutions that demonstrate my proficiency in Java programming, as well as my understanding of automation testing principles.
+Welcome to my Java Skills Showcase! As a QA Automation Engineer, I am passionate about ensuring software quality through automated testing. This repository contains a collection of Java practice questions and solutions that demonstrate my proficiency in Java programming, as well as my understanding of automation testing principles. 
+
+I will keep adding new solutions week by week.
+
 
 ## Purpose
 
