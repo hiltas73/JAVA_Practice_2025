@@ -22,6 +22,8 @@ public static void main(String[] args) {
         System.out.println(b + " is greater than " + a);
     }
 
+    sc.close();
+
 }
 
 }
